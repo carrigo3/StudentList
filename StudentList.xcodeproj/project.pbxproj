@@ -12,6 +12,7 @@
 		3EBFFC2B2224987500062B92 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3EBFFC292224987500062B92 /* Main.storyboard */; };
 		3EBFFC2D2224987500062B92 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3EBFFC2C2224987500062B92 /* Assets.xcassets */; };
 		3EBFFC302224987500062B92 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3EBFFC2E2224987500062B92 /* LaunchScreen.storyboard */; };
+		3EBFFC562224A91F00062B92 /* StudentDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EBFFC552224A91F00062B92 /* StudentDetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		3EBFFC2C2224987500062B92 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3EBFFC2F2224987500062B92 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3EBFFC312224987500062B92 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3EBFFC552224A91F00062B92 /* StudentDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudentDetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				3EBFFC252224987500062B92 /* AppDelegate.swift */,
 				3EBFFC272224987500062B92 /* ViewController.swift */,
+				3EBFFC552224A91F00062B92 /* StudentDetailViewController.swift */,
 				3EBFFC292224987500062B92 /* Main.storyboard */,
 				3EBFFC2C2224987500062B92 /* Assets.xcassets */,
 				3EBFFC2E2224987500062B92 /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			files = (
 				3EBFFC282224987500062B92 /* ViewController.swift in Sources */,
 				3EBFFC262224987500062B92 /* AppDelegate.swift in Sources */,
+				3EBFFC562224A91F00062B92 /* StudentDetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
